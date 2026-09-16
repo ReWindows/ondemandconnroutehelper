@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "ondemandconnroutehelper.dll",
+  "latest": "4096144659-CB0BF61BDA4C6506F09B220A172388C6-1",
+  "builds": [
+    {
+      "key": "4096144659-CB0BF61BDA4C6506F09B220A172388C6-1",
+      "timestamp": "4096144659",
+      "pdb_guid": "CB0BF61BDA4C6506F09B220A172388C6",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/4096144659-CB0BF61BDA4C6506F09B220A172388C6-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
